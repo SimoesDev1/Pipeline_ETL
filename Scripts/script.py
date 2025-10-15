@@ -45,4 +45,4 @@ df_final['Data da Venda'] = df_final['Data da Venda'].fillna("Data não informad
 import os
 os.makedirs("./Data_processed", exist_ok=True)
 df_final.to_csv("./Data_processed/dados_combinados.csv", index=False)
-print("✅ Dados combinados salvos com sucesso.")
+print(" Dados combinados salvos com sucesso.")
