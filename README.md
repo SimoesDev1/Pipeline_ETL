@@ -2,17 +2,6 @@
 
 Uma pipeline de ETL (Extract, Transform, Load) para processar e analisar dados de forma eficiente e escalável.
 
-🧩 Sumário
-- [Sobre](#sobre)
-- [Arquitetura](#arquitetura)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Tecnologias](#tecnologias)
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Testes](#testes)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-
 📖 Sobre:
 Este projeto implementa uma pipeline ETL para extrair dados de fontes diversas, transformá-los conforme regras de negócio e carregá-los em destinos específicos para análise e visualização.
 
